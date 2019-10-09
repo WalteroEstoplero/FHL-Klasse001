@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\bin\Debug\FHL-Klasse001.exe.config
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\bin\Debug\FHL-Klasse001.exe
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\bin\Debug\FHL-Klasse001.pdb
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\obj\Debug\FHL-Klasse001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\obj\Debug\FHL-Klasse001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\obj\Debug\FHL-Klasse001.exe
+C:\Users\walte\source\repos\FHL-Klasse001\FHL-Klasse001\obj\Debug\FHL-Klasse001.pdb
